@@ -8,11 +8,11 @@ run = "uv run zensical build --clean"
 
 [tasks.lint]
 description = "Lint markdown files"
-run = "uv run rumdl check --disable MD001,MD013,MD033,MD036,MD041,MD045 docs/"
+run = "uv run rumdl check docs/"
 
 [tasks.fmt]
 description = "Auto-fix markdown issues"
-run = "uv run rumdl fmt --disable MD001,MD013,MD033,MD036,MD041,MD045 docs/"
+run = "uv run rumdl fmt docs/"
 
 [tasks.clean]
 description = "Remove build output"

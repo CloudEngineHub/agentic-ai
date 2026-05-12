@@ -7,7 +7,7 @@ copyright = "&copy; 2025 Datawhale"
 docs_dir = "."
 
 nav = [
-  {"首页" = "index.md"},
+  {"首页" = "README.md"},
   {"1. Agentic工作流简介" = [
     "1. Agentic工作流简介[Introduction to Agentic Workflows]/1.1 欢迎[Welcome].md",
     "1. Agentic工作流简介[Introduction to Agentic Workflows]/1.2 什么是Agentic AI[What is agentic AI].md",

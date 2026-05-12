@@ -4,6 +4,8 @@ site_url = "https://datawhalechina.github.io/agentic-ai/"
 site_description = "吴恩达 Agentic AI 课程中文学习笔记 - Datawhale"
 site_author = "Datawhale"
 copyright = "&copy; 2025 Datawhale"
+repo_url = "https://github.com/datawhalechina/agentic-ai"
+repo_name = "datawhalechina/agentic-ai"
 docs_dir = "docs"
 
 

@@ -57,6 +57,8 @@ features = [
   "navigation.sections",
   "navigation.expand",
   "navigation.top",
+  "navigation.footer",
+  "navigation.instant",
   "content.code.copy",
   "toc.follow"
 ]

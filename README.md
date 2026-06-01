@@ -6,6 +6,16 @@
 **在线视频课程地址：** [DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/)
 
 
+
+## 项目友链
+
+**agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
+
+**ai-prompting-for-everyone**：这门课程偏入门，重点不是讲复杂的模型原理，而是讲普通用户如何更好地向 AI 提问，如何把任务说清楚，如何让 AI 给出更符合需求的回答。 （[ai-prompting-for-everyone](https://github.com/datawhalechina/ai-prompting-for-everyone)）
+
+
+
+
 ## 项目受众
 - 对 Agentic AI 感兴趣
 - 正在系统学习 LLM 高级应用
